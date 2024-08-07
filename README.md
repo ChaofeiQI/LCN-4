@@ -48,9 +48,7 @@ bash ./scripts/test.sh  aircraft-fs conv4 0 trial1
 
 
 # Fine-Grained Few-shot Classification(5way-1shot, -5shot)
-*We report the Experimental results (Vision-EResnet12) on CUB-200-2011, Aircraft-fewshot, VGG-Flowers and StanfordCars benchmarks. We conducted three times 1,000 randomly sampled episodes experiments, and report average results for both 1-shot and 5-shot evaluation. More details on the experiments can be seen in the paper.*
-
-<p align="center"><img width="60%" src="assets/comparition.png" /></p>
+*We report the Experimental results (Vision-EResnet12) on CUB-200-2011, Aircraft-fewshot, and VGG-Flowers benchmarks. We conducted three times 1,000 randomly sampled episodes experiments, and report average results for both 1-shot and 5-shot evaluation. More details on the experiments can be seen in the paper.*
 
 ### Ⅰ. CUB-200-2011
 <table>
