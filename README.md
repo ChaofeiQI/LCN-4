@@ -32,7 +32,7 @@ benchmarks
 # Non-scenario-training & scenario-training, and scenario-testing for Our LCN-4
 
 Train
-The following commands provide an example to train the LCN-4 Net .
+The following commands provide an example to train the LCN-4.
 ```bash
 # Usage: bash ./scripts/train.sh [Dataset (aircraft-fs, flowers-fs, cub-cropped)] [Backbone] [GPU index] [Tag]
 bash ./scripts/train.sh aircraft-fs conv4 0 trial1
