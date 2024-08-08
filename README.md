@@ -1,4 +1,4 @@
-# Rethinking Depth: Shallow Deep Learning Can Still Excel in Few-Shot Learning
+# Shallow Deep Learning Can Still Excel in Fine-Grained Few-Shot Learning
 
 This package includes our codes for implementing "Rethinking Depth: Shallow Deep Learning Can Still Excel in Few-Shot Learning". 
 (First Release Date: 2024-7-10)
