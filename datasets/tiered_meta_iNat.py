@@ -71,20 +71,14 @@ class tiered_meta_iNat(Dataset):
             
             if split=='train' :
                 self.transform = transforms.Compose([
-                    # transforms.Resize((84, 84), interpolation=3),
                     transforms.RandomCrop(84, padding=8),
-                    # transforms.RandomResizedCrop(84),
                     transforms.ColorJitter(brightness=0.4, contrast=0.4, saturation=0.4),
                     transforms.RandomHorizontalFlip(),
-                    # lambda x: np.asarray(x),
                     transforms.ToTensor(),
                     normalize,
-                    # RandomErasing(0.5)
                 ])
             else:
                 self.transform = transforms.Compose([
-                    # lambda x: np.asarray(x),
-                    # transforms.Resize((84, 84), interpolation=3),
                     transforms.ToTensor(),
                     normalize
                 ])
