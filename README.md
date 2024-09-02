@@ -1,7 +1,7 @@
 # Shallow Deep Learning Can Still Excel in Fine-Grained Few-Shot Learning
-![](https://img.shields.io/badge/LCN-4-brightgreen)
-![](https://img.shields.io/badge/Meta-learning-brightred)
-![](https://img.shields.io/badge/Few-shot-brightblue)
+![](https://img.shields.io/badge/Meta-LCN4-brightgreen)
+![](https://img.shields.io/badge/Meta-Learning-brightred)
+![](https://img.shields.io/badge/Few-Shot-brightblue)
 ![](https://img.shields.io/badge/Image-Classification-brightgray)
 ![](https://img.shields.io/badge/PyTorch-%3E%3Dv1.8.1-green)
 ![](https://img.shields.io/badge/Python-%3E%3Dv3.7-yellowgreen)
