@@ -10,11 +10,10 @@ This package includes our codes for implementing "Rethinking Depth: Shallow Deep
 (First Release Date: 2024-7-10)
 
 # Introduction
-<p style="text-align: justify;">
-Deep learning has witnessed the widespread adoption across various domains, including few-shot learning. The few-shot learning demands a fusion of deep learning and meta-learning techniques, where commonly used deep backbone networks comprise the ResNet and WRN series. However, the shallow deep learning backbone networks like Conv-4, are not widely favored due to their tendency to extract the shallower features.
+>Deep learning has witnessed the widespread adoption across various domains, including few-shot learning. The few-shot learning demands a fusion of deep learning and meta-learning techniques, where commonly used deep backbone networks comprise the ResNet and WRN series. However, the shallow deep learning backbone networks like Conv-4, are not widely favored due to their tendency to extract the shallower features.
 In this paper, we first reexamine the relationship between the depth of deep learning networks and their ability to fully learn from a limited number of few-shot instances, and investigate whether shallow deep learning architecture can achieve comparable or superior performance to deep backbone networks.
 Drawing inspiration from Conv-4, we introduce the Location-aware Constellation Network (LCN-4), which incorporates the Location Aware Feature Clustering Module. This module adeptly extracts and integrates spatial feature fusion, feature clustering, and recessive location features, thereby mitigating the issue of comprehensive information loss. Specifically, we introduce a general grid position encoding compensation to effectively address the positional information missing in ordinary convolution-extracted feature maps, and propose a general frequency domain location embedding to compensate for location loss in clustering features.
- </p>
+> 
 <p align="center"><img width="100%" src="assets/LCN4.png" /></p>
 
 # Fine-grained Few-shot Datasets Preparation   
