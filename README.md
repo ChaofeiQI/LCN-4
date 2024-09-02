@@ -82,18 +82,18 @@ bash ./scripts/test.sh  aircraft-fs conv4 0 trial1
              <td style="text-align:center">Conv-4</td>
              <td style="text-align:center;"> 92.51±0.12 </td>
              <td style="text-align:center;"><a href="https://drive.google.com/file/d/1Q1y373DDCyVwcm0ZjepkQfyLWGpWvWpT/view?usp=drive_link">Download</a></td>
-             <td style="text-align:center;"><a href="https://drive.google.com/file/d/1qeO5VmzL8qiJyyft161J0KgCUFnUyvUA/view?usp=drive_link">Test Process GIF</a></td>
+             <td style="text-align:center;"><a href="https://drive.google.com/file/d/1qeO5VmzL8qiJyyft161J0KgCUFnUyvUA/view?usp=drive_link">Test-GIF</a></td>
          </tr>
          <tr>
              <td style="text-align:center">LCN-4(Ours)</td>
              <td style="text-align:center">Conv-4</td>
              <td style="text-align:center;">84.43±0.20 </td>
              <td style="text-align:center;"><a href="https://drive.google.com/file/d/1oRijRDbsylG2lEc3LwTGKsumZBJ0KQrt/view?usp=drive_link">Download</a></td>
-             <td style="text-align:center;"><a href="https://drive.google.com/file/d/1Msn373TmJegQeskAFYOuXHWkkY5xt99i/view?usp=drive_link">Test Process GIF</a></td>
+             <td style="text-align:center;"><a href="https://drive.google.com/file/d/1Msn373TmJegQeskAFYOuXHWkkY5xt99i/view?usp=drive_link">Test-GIF</a></td>
              <td style="text-align:center">Conv-4</td>
              <td style="text-align:center;">93.74±0.11 </td>
              <td style="text-align:center;"><a href="https://drive.google.com/file/d/1oRijRDbsylG2lEc3LwTGKsumZBJ0KQrt/view?usp=drive_link">Download</a></td>
-             <td style="text-align:center;"><a href="https://drive.google.com/file/d/1DFPvJwNKpBuYPVwZOhcZHPXBODqR1Eco/view?usp=drive_link">Test Process GIF</a></td>
+             <td style="text-align:center;"><a href="https://drive.google.com/file/d/1DFPvJwNKpBuYPVwZOhcZHPXBODqR1Eco/view?usp=drive_link">Test-GIF</a></td>
          </tr>
 </table>
 
@@ -121,22 +121,22 @@ bash ./scripts/test.sh  aircraft-fs conv4 0 trial1
              <td style="text-align:center">Conv-4</td>
              <td style="text-align:center;">81.07±0.22</td>
              <td style="text-align:center;"><a href="https://drive.google.com/file/d/1y3YbHaUSOoDPnF2J9nDQhRzUegOX881v/view?usp=drive_link">Download</a></td>
-             <td style="text-align:center;"><a href="https://drive.google.com/file/d/1vwO8x05DG5CMyakHPdRom5l8QEAyA_Of/view?usp=drive_link">Test Process GIF</a></td>
+             <td style="text-align:center;"><a href="https://drive.google.com/file/d/1vwO8x05DG5CMyakHPdRom5l8QEAyA_Of/view?usp=drive_link">Test-GIF</a></td>
              <td style="text-align:center">Conv-4</td>
              <td style="text-align:center;">  92.21±0.10 </td>
              <td style="text-align:center;"><a href="https://drive.google.com/file/d/1y3YbHaUSOoDPnF2J9nDQhRzUegOX881v/view?usp=drive_link">Download</a></td>
-             <td style="text-align:center;"><a href="https://drive.google.com/file/d/14orUcyPwBx8gufkevFykXMR-kZF9IW04/view?usp=drive_link">Test Process GIF</a></td>
+             <td style="text-align:center;"><a href="https://drive.google.com/file/d/14orUcyPwBx8gufkevFykXMR-kZF9IW04/view?usp=drive_link">Test-GIF</a></td>
          </tr>
          <tr>
              <td style="text-align:center">LCN-4(Ours)</td>
              <td style="text-align:center">Conv-4</td>
              <td style="text-align:center;">86.00±0.20 </td>
              <td style="text-align:center;"><a href="https://drive.google.com/file/d/1VUPFfvUv7bXG6VdAdRleHYIusvCBg9MX/view?usp=drive_link">Download</a></td>
-             <td style="text-align:center;"><a href="https://drive.google.com/file/d/1mXdN-FCCe3V64Kpm8S5i84CRSYnPtOTQ/view?usp=drive_link">Test Process GIF</a></td>
+             <td style="text-align:center;"><a href="https://drive.google.com/file/d/1mXdN-FCCe3V64Kpm8S5i84CRSYnPtOTQ/view?usp=drive_link">Test-GIF</a></td>
              <td style="text-align:center">Conv-4</td>
              <td style="text-align:center;">94.26±0.09 </td>
              <td style="text-align:center;"><a href="https://drive.google.com/file/d/1VUPFfvUv7bXG6VdAdRleHYIusvCBg9MX/view?usp=drive_link">Download</a></td>
-             <td style="text-align:center;"><a href="https://drive.google.com/file/d/1c2AG8Mg_kr-0VujjGd1Spg5AS6IOLFHv/view?usp=drive_link">Test Process GIF</a></td>
+             <td style="text-align:center;"><a href="https://drive.google.com/file/d/1c2AG8Mg_kr-0VujjGd1Spg5AS6IOLFHv/view?usp=drive_link">Test-GIF</a></td>
          </tr>
 </table>
 
@@ -165,22 +165,22 @@ bash ./scripts/test.sh  aircraft-fs conv4 0 trial1
              <td style="text-align:center">Conv-4</td>
              <td style="text-align:center;">71.18±0.23 </td>
              <td style="text-align:center;"><a href="https://drive.google.com/file/d/1zHrSvjEZoOSjbXrVD4gxnf5atQZD6v9K/view?usp=drive_link">Download</a></td>
-             <td style="text-align:center;"><a href="https://drive.google.com/file/d/1Y7fkIlNOJuHOgPggEWrXldUAOqSJIHK4/view?usp=drive_link">Test Process GIF</a></td>
+             <td style="text-align:center;"><a href="https://drive.google.com/file/d/1Y7fkIlNOJuHOgPggEWrXldUAOqSJIHK4/view?usp=drive_link">Test-GIF</a></td>
              <td style="text-align:center">Conv-4</td>
              <td style="text-align:center;">  85.51±0.15 </td>
              <td style="text-align:center;"><a href="https://drive.google.com/file/d/1zHrSvjEZoOSjbXrVD4gxnf5atQZD6v9K/view?usp=drive_link">Download</a></td>
-             <td style="text-align:center;"><a href="https://drive.google.com/file/d/1H02KOXyCVghsZtOr34OFXofvcByJZWjc/view?usp=drive_link">Test Process GIF</a></td>
+             <td style="text-align:center;"><a href="https://drive.google.com/file/d/1H02KOXyCVghsZtOr34OFXofvcByJZWjc/view?usp=drive_link">Test-GIF</a></td>
          </tr>
          <tr>
              <td style="text-align:center">LCN-4(Ours)</td>
              <td style="text-align:center">Conv-4</td>
              <td style="text-align:center;">73.42±0.22 </td>
              <td style="text-align:center;"><a href="https://drive.google.com/file/d/1Uv8YnLAa-9QkEFA0tS2I-sLevJC6NbnP/view?usp=drive_link">Download</a></td>
-             <td style="text-align:center;"><a href="https://drive.google.com/file/d/102pl3aQW8OZydRgxGVvrm2IqrIA_HtgT/view?usp=drive_link">Test Process GIF</a></td>
+             <td style="text-align:center;"><a href="https://drive.google.com/file/d/102pl3aQW8OZydRgxGVvrm2IqrIA_HtgT/view?usp=drive_link">Test-GIF</a></td>
              <td style="text-align:center">Conv-4</td>
              <td style="text-align:center;">86.98±0.14 </td>
              <td style="text-align:center;"><a href="https://drive.google.com/file/d/1Uv8YnLAa-9QkEFA0tS2I-sLevJC6NbnP/view?usp=drive_link">Download</a></td>
-             <td style="text-align:center;"><a href="https://drive.google.com/file/d/1KPM3-8U1S2mxFPGHqzX7TjXYqt8XzEAB/view?usp=drive_link">Test Process GIF</a></td>
+             <td style="text-align:center;"><a href="https://drive.google.com/file/d/1KPM3-8U1S2mxFPGHqzX7TjXYqt8XzEAB/view?usp=drive_link">Test-GIF</a></td>
          </tr>
 </table>
 
