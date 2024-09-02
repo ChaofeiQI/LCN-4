@@ -78,7 +78,7 @@ bash ./scripts/test.sh  aircraft-fs conv4 0 trial1
              <td style="text-align:center">Conv-4</td>
              <td style="text-align:center;">81.69±0.21 </td>
              <td style="text-align:center;"><a href="https://drive.google.com/file/d/1Q1y373DDCyVwcm0ZjepkQfyLWGpWvWpT/view?usp=drive_link">Download</a></td>
-             <td style="text-align:center;"><a href="https://drive.google.com/file/d/1CGgDrI_PLB_cGJfLzNCVyetDKuWChGbH/view?usp=drive_link">Test Process GIF</a></td>
+             <td style="text-align:center;"><a href="https://drive.google.com/file/d/1CGgDrI_PLB_cGJfLzNCVyetDKuWChGbH/view?usp=drive_link">Test-GIF</a></td>
              <td style="text-align:center">Conv-4</td>
              <td style="text-align:center;"> 92.51±0.12 </td>
              <td style="text-align:center;"><a href="https://drive.google.com/file/d/1Q1y373DDCyVwcm0ZjepkQfyLWGpWvWpT/view?usp=drive_link">Download</a></td>
