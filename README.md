@@ -6,7 +6,7 @@
 ![](https://img.shields.io/badge/PyTorch-%3E%3Dv1.8.1-green)
 ![](https://img.shields.io/badge/Python-%3E%3Dv3.7-yellowgreen)
 
->This package includes our codes for implementing "Rethinking Depth: Shallow Deep Learning Can Still Excel in Few-Shot Learning". 
+>This package includes our codes for implementing "Shallow Deep Learning Can Still Excel in Fine-Grained Few-Shot Learning". 
 (First Release Date: 2024-7-10)
 >
 # Introduction
