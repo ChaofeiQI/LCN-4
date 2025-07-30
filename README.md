@@ -8,6 +8,9 @@
 
 >This package includes our codes for implementing "Shallow Deep Learning Can Still Excel in Fine-Grained Few-Shot Learning". 
 (Fully Release Date: 2025-7-30)
+
+>Benchmark Link: https://pan.baidu.com/s/1BP6rlXeNWrZGHv9ulwGTXA  Code: ddc3 
+
 >
 # Introduction
 >*Deep learning has witnessed the widespread adoption across various domains, including few-shot learning. The few-shot learning demands a fusion of deep learning and meta-learning techniques, where commonly used deep backbone networks comprise the ResNet and WRN series. However, the shallow deep learning backbone networks like Conv-4, are not widely favored due to their tendency to extract the shallower features.
