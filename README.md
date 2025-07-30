@@ -11,6 +11,8 @@
 
 >Benchmark Link: https://pan.baidu.com/s/1BP6rlXeNWrZGHv9ulwGTXA  Code: ddc3 
 
+>Our Paper: https://arxiv.org/abs/2507.22041
+
 >
 # Introduction
 >*Deep learning has witnessed the widespread adoption across various domains, including few-shot learning. The few-shot learning demands a fusion of deep learning and meta-learning techniques, where commonly used deep backbone networks comprise the ResNet and WRN series. However, the shallow deep learning backbone networks like Conv-4, are not widely favored due to their tendency to extract the shallower features.
